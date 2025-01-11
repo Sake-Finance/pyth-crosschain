@@ -6,30 +6,35 @@
 - alias: WBTC/USD
   id: c9d8b075a5c69303365ae23633d4e085199bf5c520a3b90fed1322a0342ffc33
   time_difference: 1800
-  price_deviation: 0.5
-  confidence_ratio: 1
+  price_deviation: 5
+  confidence_ratio: 5
 - alias: ETH/USD
   id: ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace
   time_difference: 1800
-  price_deviation: 0.5
-  confidence_ratio: 1
+  price_deviation: 5
+  confidence_ratio: 5
 - alias: WETH/USD
   id: 9d4294bbcd1174d6f2003ec365831e64cc31d9f6f15a2b85399db8d5000960f6
   time_difference: 1800
-  price_deviation: 0.5
-  confidence_ratio: 1
+  price_deviation: 5
+  confidence_ratio: 5
 - alias: USDC/USD
   id: eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a
   time_difference: 1800
-  price_deviation: 0.5
-  confidence_ratio: 1
-- alias: USDT/USD
-  id: 2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b
+  price_deviation: 5
+  confidence_ratio: 5
+- alias: STONE/USD
+  id: 4dcc2fb96fb89a802ef9712f6bd2246d3607cf95ca5540cb24490d37003f8c46
   time_difference: 1800
-  price_deviation: 0.5
-  confidence_ratio: 1
-- alias: DAI/USD
-  id: b0948a5e5313200c632b51bb5ca32f6de0d36e9950a942d19751e833f70dabfd
+  price_deviation: 5
+  confidence_ratio: 5
+- alias: ASTR/USD
+  id: 89b814de1eb2afd3d3b498d296fca3a873e644bafb587e84d181a01edd682853
   time_difference: 1800
-  price_deviation: 0.5
-  confidence_ratio: 1
+  price_deviation: 5
+  confidence_ratio: 5
+- alias: SOLVBTC/USD
+  id: f253cf87dc7d5ed5aa14cba5a6e79aee8bcfaef885a0e1b807035a0bbecc36fa
+  time_difference: 1800
+  price_deviation: 5
+  confidence_ratio: 5

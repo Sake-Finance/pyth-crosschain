@@ -25,7 +25,7 @@ services:
       - "--endpoint"
       # Replace this with RPC endpoint URL for the EVM network.
       # - "https://bsc-dataseed2.binance.org"
-      - "https://rpc.minato.soneium.org"
+      - "https://soneium.rpc.scs.startale.com?apikey=4RP4B4axMXNOCw5I94mD5ZEHuLXxXzg8"
       - "--mnemonic-file"
       - "/mnemonic"
       # Replace this with the address of the Pyth contract on the EVM network.
